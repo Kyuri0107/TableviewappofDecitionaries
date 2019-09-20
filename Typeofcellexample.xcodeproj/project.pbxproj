@@ -15,6 +15,7 @@
 		4EB2F0102334BDE200AA4374 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4EB2F00E2334BDE200AA4374 /* LaunchScreen.storyboard */; };
 		4EB2F01B2334BDE200AA4374 /* TypeofcellexampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB2F01A2334BDE200AA4374 /* TypeofcellexampleTests.swift */; };
 		4EB2F0262334BDE200AA4374 /* TypeofcellexampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB2F0252334BDE200AA4374 /* TypeofcellexampleUITests.swift */; };
+		4EB2F0342334C4CE00AA4374 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB2F0332334C4CE00AA4374 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4EB2F0212334BDE200AA4374 /* TypeofcellexampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TypeofcellexampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4EB2F0252334BDE200AA4374 /* TypeofcellexampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypeofcellexampleUITests.swift; sourceTree = "<group>"; };
 		4EB2F0272334BDE200AA4374 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4EB2F0332334C4CE00AA4374 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				4EB2F00E2334BDE200AA4374 /* LaunchScreen.storyboard */,
 				4EB2F0112334BDE200AA4374 /* Info.plist */,
 				4EB2F0092334BDE200AA4374 /* Typeofcellexample.xcdatamodeld */,
+				4EB2F0332334C4CE00AA4374 /* TableViewController.swift */,
 			);
 			path = Typeofcellexample;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				4EB2F0052334BDE200AA4374 /* ViewController.swift in Sources */,
 				4EB2F00B2334BDE200AA4374 /* Typeofcellexample.xcdatamodeld in Sources */,
 				4EB2F0032334BDE200AA4374 /* AppDelegate.swift in Sources */,
+				4EB2F0342334C4CE00AA4374 /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
